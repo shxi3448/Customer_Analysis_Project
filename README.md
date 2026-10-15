@@ -6,6 +6,24 @@ This project analyzes customer shopping behavior using Python, SQL, and Power BI
 
 I started by cleaning and preparing the data in Python, used SQL to answer specific business questions, and created an interactive Power BI dashboard to present the results. This repository also includes a detailed report and a presentation summarizing the project.
 
+## Business Problem
+
+A retail company wants to better understand how its customers shop so it can improve sales, customer satisfaction, and long-term loyalty. Management has noticed changes in purchasing patterns across customer demographics, product categories, and online versus offline sales channels. They want to understand how factors such as discounts, product reviews, seasons, and payment preferences relate to purchasing decisions and repeat purchases.
+
+The main question guiding this project is:
+
+> How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?
+
+To address this problem, the project was organized around five deliverables:
+
+1. **Data preparation and modeling:** Clean and transform the raw data using Python.
+2. **SQL analysis:** Explore customer segments, loyalty, and purchase drivers through structured queries.
+3. **Visualization:** Build a Power BI dashboard to highlight important shopping patterns.
+4. **Report and presentation:** Explain the findings and recommend actions the business could consider.
+5. **GitHub repository:** Bring the code, dashboard, and supporting project materials together in one place.
+
+The analysis in this repository focuses on the questions supported by the available dataset and SQL queries. Not every factor mentioned in the original business problem, such as online versus offline sales channels, is analyzed separately.
+
 ## Tools and Technologies
 
 - **Python and Pandas:** Data exploration, cleaning, and feature engineering
